@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 Hi, I’m Vanessa 👋<br>💻 Full-Stack Developer | Product Manager | UI/UX Designer<br>⚙️ I enjoy building end-to-end products from idea → design → implementation<br>🎨 Focused on clean UI, strong UX, and system-driven design thinking<br>📊 Exploring data analytics to enhance product decisions and user insights<br>🚀 Passionate about building scalable digital solutions
